@@ -1,0 +1,40 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Luxury Villa",
+      "type": "Plot",
+      "price": 250000,
+      "location": "Pune",
+      "description": "A large plot of land available for development in a prime location.",
+      "imageUrl": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "2",
+      "name": "Industrial Shed",
+      "type": "Shed",
+      "price": 76000,
+      "location": "Bangalore",
+      "description": "An industrial shed in a prime location, perfect for storage or manufacturing.",
+      "imageUrl": "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "4",
+      "name": "Spacious City Plot",
+      "type": "Plot",
+      "price": 300000,
+      "location": "Chennai",
+      "description": "A spacious plot situated in a serene area, ripe for a new housing project.",
+      "imageUrl": "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "d93e",
+      "name": "Village Plot",
+      "type": "Plot",
+      "price": 40000,
+      "location": "Allahabad",
+      "description": "Budget Friendly\n",
+      "imageUrl": "https://images.pexels.com/photos/33232351/pexels-photo-33232351.jpeg"
+    }
+  ]
+}
