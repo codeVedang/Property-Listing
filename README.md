@@ -6,7 +6,7 @@ This project is a single-page application built with React and TypeScript that a
 
 A live version of this project is deployed here:
 
-**[https://your-task-1-url.vercel.app/]((https://property-listing-vedang.vercel.app/))**
+**[https://your-task-1-url.vercel.app/](https://property-listing-vedang.vercel.app/)**
 
 ## Features
 
